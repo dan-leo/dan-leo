@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working at Polymorph Systems
+- 🌱 I'm an IoT R&D Engineer
+- 👯 I enjoy learning new things!
+
+[![dan-leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dan-leo&show_icons=true)](https://github.com/dan-leo)
+
 <!--
 **dan-leo/dan-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
