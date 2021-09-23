@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working at Polymorph Systems
-- 🌱 I'm an IoT R&D Engineer
+- 🔭 I'm currently working at Capgemini/ASML in the Netherlands
+- 🌱 I'm an embedded software engineer
 - 👯 I enjoy learning new things!
 
 [![dan-leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dan-leo&show_icons=true)](https://github.com/dan-leo)
